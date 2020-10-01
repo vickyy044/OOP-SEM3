@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 class trains{
 public:
     int n=8;
