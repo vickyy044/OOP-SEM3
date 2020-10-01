@@ -14,6 +14,7 @@ b=a;
 cout<<"Values in function: x="<<a<<" y="<<b<<endl;
 }
 int main(){
+   cout<<"SWapping programming using reference and value :\n";
 int x,y;
 cout<<"Enter the integers to be swapped: \n";
 cin>>x>>y;
