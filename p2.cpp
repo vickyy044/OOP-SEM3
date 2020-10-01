@@ -6,7 +6,7 @@ void simpleinterest(int p,int t,float r=10){
 }
 int main(){
     int p,t,k;
-cout<<"\t\t----- SIMPLE INTEREST CALCULATOR ----\n";
+cout<<"\t\t----- SIMPLE INTEREST CALCULATOR -----\n";
 cout<<"Enter the Principle Amount :\n";
 cin>>p;
 cout<<"Enter the Time Period(Yrs):\n";
